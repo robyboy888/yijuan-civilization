@@ -15,7 +15,8 @@
 |`design.md`|系列风格与本集构图/声音设计|
 |`assets/`|概念图、正式场景、独立图层（可在 film/assets 下，通过映射指定）|
 |`film/`|可编辑工程、最终 narration.txt、配音原文件、边界数据、混音、字幕、生成清单、验收日志、实际成片抽帧|
-|`封面.png`|单独可使用封面，与最终标题一致|
+|`封面.png`|单独可使用标题封面，同时嵌入两版视频第0帧，无旁白字幕|
+|`film/cover-verification.json`|两版真实首帧、转场抽帧与检查范围|
 |`短标题-时长秒-1080p.mp4`|高清母版|
 |`短标题-时长秒-1080p-分享版.mp4`|分享版，按实际比例调整文件标签|
 |`短标题.srt`|外置字幕|
@@ -42,6 +43,7 @@
     "design": "design.md",
     "concept": "assets/长卷概念图.png",
     "cover": "封面.png",
+    "cover_verification": "film/cover-verification.json",
     "master": "一卷道路-180秒-1080p.mp4",
     "share": "一卷道路-180秒-1080p-分享版.mp4",
     "srt": "一卷道路.srt",

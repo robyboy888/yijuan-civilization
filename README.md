@@ -48,7 +48,7 @@ git clone https://github.com/robyboy888/yijuan-civilization.git "${CODEX_HOME:-$
 |画面|风格设定、概念长卷、最终提示词、场景图和独立图层|
 |声音|原始配音、对齐数据、音乐/音效来源、混音|
 |工程|可修改动画工程、素材清单、工具版本、复现命令|
-|交付|高清母版、分享版、SRT、封面、实际成片验收记录|
+|交付|高清母版、分享版、SRT、独立标题封面、两版视频真实首帧封面及抽帧验收记录|
 |传播|长卷预告文案、X精简版、视频号文案|
 
 详细文件约定见 [delivery.md](references/delivery.md)。

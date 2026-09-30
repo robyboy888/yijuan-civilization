@@ -5,7 +5,7 @@ from pathlib import Path
 
 REQUIRED = (
     'mother_md mother_txt storyboard research prompts delivery copy design '
-    'concept cover master share srt narration composition manifest voice '
+    'concept cover cover_verification master share srt narration composition manifest voice '
     'voice_alignment mix verification share_verification snapshots'
 ).split()
 
