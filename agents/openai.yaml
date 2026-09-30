@@ -1,0 +1,6 @@
+interface:
+  display_name: "一卷 · 文明长卷系列"
+  short_description: "从题目到文明长卷成片，自主核查英文史料并保留全部中间成果"
+  default_prompt: "使用 $yijuan-civilization 制作《一卷道路：从兽径，到卫星轨道》，完成研究、全文、分镜、素材、视频和发布文案。"
+policy:
+  allow_implicit_invocation: true
